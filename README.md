@@ -14,8 +14,7 @@ A variation on the classic game chess, where neighboring pieces can move togethe
 2. Unzip the zip file to a folder
 
 ### Running it
-1. Open the project.godot file with godot
-2. Press the  button at the top left of the editor
+1. Run the Chess.exe file
 
 </br>
 
