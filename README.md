@@ -5,9 +5,6 @@ A variation on the classic game chess, where neighboring pieces can move togethe
   
 
 ## Getting Started
-### Prerequisites
-1. Download the [godot game engine](https://godotengine.org/)
-
 ### Installation
 
 1. Download this repo as a zip
