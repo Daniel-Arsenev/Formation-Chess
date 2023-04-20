@@ -11,7 +11,9 @@ config_version=4
 [application]
 
 config/name="Chess"
-run/main_scene="res://.import/Main.tscn"
+run/main_scene="res://Main.tscn"
+run/disable_stdout=true
+run/disable_stderr=true
 config/icon="res://icon.png"
 
 [global]
